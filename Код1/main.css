@@ -1,0 +1,14 @@
+h1{
+	font-style: 50px;
+	padding: 25px;
+	border: double 5px blue;
+}
+p{
+	font-style: 25px;
+	font-weight: bold;
+	color: white;
+}
+body {
+	margin: 0 auto;
+	background: #555;
+}
